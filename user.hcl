@@ -1,4 +1,4 @@
-# CTU is focused primarily on reading/writing secrets 
+# User is focused primarily on reading/writing secrets 
 
 
 path "secret/*"
