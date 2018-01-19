@@ -1,7 +1,7 @@
 # CTU is focused primarily on reading/writing secrets 
 
 
-path "secret/TENANT"
+path "secret/*"
 {
 	 capabilities = ["create", "read", "update", "delete", "list"]
 
