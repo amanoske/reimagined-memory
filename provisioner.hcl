@@ -14,6 +14,6 @@ path "sys/policy/*"
 
 path "secret/*"
 {
-	capabilities = ["create", "read", "update", "delete", "list", "sudo"]
+	capabilities = ["create", "update", "delete", "list", "sudo"]
 
 }
