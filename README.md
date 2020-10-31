@@ -1,4 +1,4 @@
-# reimagined-memory
+# vault-rbac
 This repo focuses on providing ACL policy examples for a sample Vault environment. 
 
 
